@@ -10,4 +10,4 @@
   5. Use 'd' to move right
   6. Press 'escape' to exit
 
-## Don't forget to have fun
+## Don't forget to have fun!!
